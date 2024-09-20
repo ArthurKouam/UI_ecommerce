@@ -8,7 +8,7 @@
             </div>
         </div>
 
-        <div class=" mt-6">
+        <div class=" mt-4">
             <h2 class=" text-2xl font-bold">Explore products</h2>
             <div class=" flex flex-nowrap overflow-scroll web mt-4">
                 <span class="grid place-items-center bg-black rounded-3xl px-7 w-44 mr-5 text-white h-8">
@@ -22,7 +22,7 @@
 
         <div class=" mt-7 grid grid-cols-2 gap-x-5 gap-y-7 text-center">
             <div v-for="n in 8" class=" relative elements" id="elements" @click="detailVisible = !detailVisible">
-                <div class=" h-44 bg-white rounded-t-full border-4 bor object-cover object-center overflow-hidden">
+                <div class=" h-40 bg-white rounded-t-full border-4 bor object-cover object-center overflow-hidden">
                     <img src="@/assets/images/image9.png" class=" object-cover translate-y-5 object-center anim" alt="">
                 </div>
                 <div class="mt-4">
