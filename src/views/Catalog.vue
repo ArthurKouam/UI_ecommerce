@@ -14,7 +14,7 @@
                 <span class="grid place-items-center bg-black rounded-3xl px-7 mr-5 text-white h-11">
                     chair
                 </span>
-                <span v-for="n in 6" :key="n" style="background-color: rgba(217, 217, 217, 1);" class="grid mr-5 px-7 place-items-center rounded-3xl w-48 text-black h-11">
+                <span v-for="n in 6" :key="n" style="background-color: rgba(217, 217, 217, 1);" class="grid mr-5 px-7 place-items-center rounded-3xl w-44 text-black h-8">
                     chair
                 </span>
             </div>
@@ -22,7 +22,7 @@
 
         <div class=" mt-7 grid grid-cols-2 gap-x-5 gap-y-7 text-center">
             <div v-for="n in 8" class=" relative elements" id="elements" @click="detailVisible = !detailVisible">
-                <div class=" h-48 bg-white rounded-t-full border-4 bor object-cover object-center overflow-hidden">
+                <div class=" h-44 bg-white rounded-t-full border-4 bor object-cover object-center overflow-hidden">
                     <img src="@/assets/images/image9.png" class=" object-cover translate-y-5 object-center anim" alt="">
                 </div>
                 <div class="mt-4">
