@@ -1,7 +1,7 @@
 <template>
     <section style="background-color: rgba(246, 242, 224, 1);" class="w-full px-5 pb-24 pt-9" v-if="!detailVisible">
         <div class=" flex justify-between items-center">
-            <img src="@/assets/images/vector.svg" alt="">
+            <img src="@/assets/images/Vector.svg" alt="">
             <div class=" flex gap-4 items-center">
                 <img src="@/assets/images/cart.svg" class=" w-7" alt="">
                 <img src="@/assets/images/Group2.svg" class=" w-7" alt="">
