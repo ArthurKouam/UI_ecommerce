@@ -11,7 +11,7 @@
         <div class=" mt-6">
             <h2 class=" text-2xl font-bold">Explore products</h2>
             <div class=" flex flex-nowrap overflow-scroll web mt-4">
-                <span class="grid place-items-center bg-black rounded-3xl px-7 mr-5 text-white h-11">
+                <span class="grid place-items-center bg-black rounded-3xl px-7 w-44 mr-5 text-white h-8">
                     chair
                 </span>
                 <span v-for="n in 6" :key="n" style="background-color: rgba(217, 217, 217, 1);" class="grid mr-5 px-7 place-items-center rounded-3xl w-44 text-black h-8">
