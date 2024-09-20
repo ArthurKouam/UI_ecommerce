@@ -27,7 +27,7 @@
             </p>
         </div>
 
-        <div class=" fixed w-full bottom-0 h-16 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
+        <div class=" fixed w-full bottom-0 h-20 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
             <span class="text-3xl font-bold">$64.00</span>
             <button class=" text-white text-xl bg-black px-8 py-2 font-medium rounded-xl">Add to Cart</button>
         </div>
