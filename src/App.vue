@@ -6,7 +6,7 @@ const route = useRoute();
 </script>
 
 <template>
-  <div v-if="route.path !== '/'" style="background-color: rgba(138, 137, 137, 0.1);" class=" w-full h-20 fixed bottom-0 flex justify-between items-center px-5 text-center z-50 ba">
+  <div v-if="route.path !== '/'" style="background-color: rgba(138, 137, 137, 0.1);" class=" w-full h-16 fixed bottom-0 flex justify-between items-center px-5 text-center z-50 ba">
         <div class="pro">
           <img src="@/assets/images/carbon_catalog.svg" class="icon" alt="">
           <span>Catalog</span>
