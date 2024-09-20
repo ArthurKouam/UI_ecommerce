@@ -1,10 +1,10 @@
 <template>
-    <section style="background-color: rgba(246, 242, 224, 1);" class="w-full px-5 pb-24 pt-6" v-if="!detailVisible">
+    <section style="background-color: rgba(246, 242, 224, 1);" class="w-full px-5 pb-24 pt-4" v-if="!detailVisible">
         <div class=" flex justify-between items-center">
-            <img src="@/assets/images/Vector.svg" alt="">
+            <img src="@/assets/images/Vector.svg" class="w-5" alt="">
             <div class=" flex gap-4 items-center">
-                <img src="@/assets/images/cart.svg" class=" w-7" alt="">
-                <img src="@/assets/images/Group2.svg" class=" w-7" alt="">
+                <img src="@/assets/images/cart.svg" class=" w-5" alt="">
+                <img src="@/assets/images/Group2.svg" class=" w-5" alt="">
             </div>
         </div>
 
