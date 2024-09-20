@@ -1,7 +1,7 @@
 <template>
     <section style="background-color: rgba(246, 242, 224, 1); z-index: 60;" class=" fixed inset-0 px-5 pt-9">
         <div class=" flex w-full justify-between">
-            <img @click="closeDetails" class=" size-8" src="@/assets/images/vector3.svg" alt="">
+            <img @click="closeDetails" class=" size-8" src="@/assets/images/Vector3.svg" alt="">
             <img class=" size-8" src="@/assets/images/heart-light.svg" alt="">
         </div>
         <div class="bg-white mx-7 mt-20 bor rounded-2xl">
