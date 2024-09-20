@@ -8,10 +8,10 @@
             <img src="@/assets/images/image9.png" alt="">
         </div>
         <div class=" flex gap-8 items-center  mt-8">
-            <span class=" text-yellow-500 flex text-3xl gap-3">
+            <span class=" text-yellow-500 flex text-2xl gap-3">
                 <img src="@/assets/images/Vector2.svg" alt="">4.7
             </span>
-            <span class=" bg-black py-3 text-white text-xl font-medium px-5 rounded-3xl grid place-items-center">160 reviews</span>
+            <span class=" bg-black py-1 text-white text-xl font-medium px-5 rounded-3xl grid place-items-center">160 reviews</span>
         </div>
         <div>
             <div class="mt-4 flex items-center justify-between">
@@ -29,7 +29,7 @@
 
         <div class=" fixed w-full bottom-0 h-16 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
             <span class="text-3xl font-bold">$64.00</span>
-            <button class=" text-white text-xl bg-black px-8 py-4 font-medium rounded-xl">Add to Cart</button>
+            <button class=" text-white text-xl bg-black px-8 py-2 font-medium rounded-xl">Add to Cart</button>
         </div>
     </section>
 </template>
