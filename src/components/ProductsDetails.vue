@@ -4,7 +4,7 @@
             <img @click="closeDetails" class=" size-6" src="@/assets/images/Vector3.svg" alt="">
             <img class=" size-6" src="@/assets/images/heart-light.svg" alt="">
         </div>
-        <div class="bg-white mx-7 mt-12 bor rounded-2xl">
+        <div class="bg-white mx-7 mt-7 bor rounded-2xl">
             <img src="@/assets/images/image9.png" alt="">
         </div>
         <div class=" flex gap-8 items-center  mt-8">
