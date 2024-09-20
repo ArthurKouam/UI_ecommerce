@@ -4,7 +4,7 @@
             <img @click="closeDetails" class=" size-8" src="@/assets/images/Vector3.svg" alt="">
             <img class=" size-8" src="@/assets/images/heart-light.svg" alt="">
         </div>
-        <div class="bg-white mx-7 mt-20 bor rounded-2xl">
+        <div class="bg-white mx-7 mt-12 bor rounded-2xl">
             <img src="@/assets/images/image9.png" alt="">
         </div>
         <div class=" flex gap-8 items-center  mt-8">
@@ -15,7 +15,7 @@
         </div>
         <div>
             <div class="mt-6 flex items-center justify-between">
-                <h2 class="text-3xl font-bold">Soft element jack</h2>
+                <h2 class="text-2xl font-bold">Soft element jack</h2>
                 <div class="flex gap-2">
                         <div class=" size-5 rounded-full bg-red-500"></div>
                         <div class="size-5 rounded-full bg-blue-500"></div>
@@ -27,7 +27,7 @@
             </p>
         </div>
 
-        <div class=" fixed w-full bottom-0 h-24 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
+        <div class=" fixed w-full bottom-0 h-16 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
             <span class="text-4xl font-bold">$64.00</span>
             <button class=" text-white text-xl bg-black px-10 py-4 font-medium rounded-xl">Add to Cart</button>
         </div>
