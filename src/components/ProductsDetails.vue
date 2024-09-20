@@ -14,7 +14,7 @@
             <span class=" bg-black py-3 text-white text-xl font-medium px-5 rounded-3xl grid place-items-center">160 reviews</span>
         </div>
         <div>
-            <div class="mt-6 flex items-center justify-between">
+            <div class="mt-4 flex items-center justify-between">
                 <h2 class="text-2xl font-bold">Soft element jack</h2>
                 <div class="flex gap-2">
                         <div class=" size-5 rounded-full bg-red-500"></div>
@@ -22,14 +22,14 @@
                         <div class="size-5 rounded-full bg-violet-500"></div>
                 </div>
             </div>
-            <p class=" text-lg mt-3 text-justify">
+            <p class="  mt-3 text-justify">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi voluptates impedit, quam incidunt modi voluptatem, suscipit exercitationem non reiciendis eligendi id optio aut ab asperiores earum.
             </p>
         </div>
 
         <div class=" fixed w-full bottom-0 h-16 left-0 flex px-5 items-center justify-between" style="background-color: rgba(138, 137, 137, 0.1);">
-            <span class="text-4xl font-bold">$64.00</span>
-            <button class=" text-white text-xl bg-black px-10 py-4 font-medium rounded-xl">Add to Cart</button>
+            <span class="text-3xl font-bold">$64.00</span>
+            <button class=" text-white text-xl bg-black px-8 py-4 font-medium rounded-xl">Add to Cart</button>
         </div>
     </section>
 </template>
