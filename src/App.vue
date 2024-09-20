@@ -29,8 +29,8 @@ const route = useRoute();
 
 <style scoped>
   .icon{
-    width: 30px;
-    height: 27px;
+    width: 25px;
+    height: 24px;
   }
   .pro{
     display: flex;
