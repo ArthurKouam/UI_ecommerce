@@ -26,7 +26,7 @@
                     <img src="@/assets/images/image9.png" class=" object-cover translate-y-5 object-center anim" alt="">
                 </div>
                 <div class="mt-4">
-                    <p class=" gap-4 hidden"><span class=" text-yellow-400 flex gap-2 text-xl"><img src="@/assets/images/vector2.svg" alt="">4.7</span><span class=" text-xl text-white py-2 px-2 bg-black grid place-items-center rounded-3xl">160 reviews</span></p>
+                    <p class=" gap-4 hidden"><span class=" text-yellow-400 flex gap-2 text-xl"><img src="@/assets/images/Vector2.svg" alt="">4.7</span><span class=" text-xl text-white py-2 px-2 bg-black grid place-items-center rounded-3xl">160 reviews</span></p>
                     <p class=" font-bold ">Soft element jack</p>
                     <p>$59 </p>
                     <div class="flex w-full justify-center gap-2 mt-2">
