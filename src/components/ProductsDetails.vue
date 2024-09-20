@@ -11,7 +11,7 @@
             <span class=" text-yellow-500 flex text-2xl gap-3">
                 <img src="@/assets/images/Vector2.svg" alt="">4.7
             </span>
-            <span class=" bg-black py-1 text-white text-xl font-medium px-5 rounded-3xl grid place-items-center">160 reviews</span>
+            <span class=" bg-black py-1 text-white text-lg font-medium px-4 rounded-3xl grid place-items-center">160 reviews</span>
         </div>
         <div>
             <div class="mt-4 flex items-center justify-between">
